@@ -14,7 +14,7 @@ h1 {
 
 .card {
   width: 343px;
-  height: 611;
+  height: 611px;
   background-color: white;
   display: flex;
   flex-direction: column;
@@ -105,7 +105,7 @@ h1 {
   background-color: #1a4032;
 }
 .card__button__img {
-  width: 16px;
+  width: 14px;
   height: 16px;
 }
 .card__button__text {
